@@ -37,7 +37,7 @@ interface TransactionContextType {
 
 const TransactionContext = createContext<TransactionContextType | undefined>(undefined);
 
-const API_URL = 'http://localhost:3001/api';
+const API_URL = 'https://personal-finance-tracker-xn0x.onrender.com';
 
 // Default categories for new users
 const DEFAULT_CATEGORIES: Category[] = [
