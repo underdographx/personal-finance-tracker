@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Grocery Shopping",
+      "category": "Food & Dining",
+      "type": "Expense",
+      "amount": 75.5,
+      "date": "2026-05-23",
+      "icon": "🛒"
+    },
+    {
+      "id": "2",
+      "description": "Salary",
+      "category": "Income",
+      "type": "Income",
+      "amount": 5200,
+      "date": "2026-05-23",
+      "icon": "💼"
+    },
+    {
+      "id": "3",
+      "description": "Netflix Subscription",
+      "category": "Entertainment",
+      "type": "Expense",
+      "amount": 15.99,
+      "date": "2026-05-22",
+      "icon": "🎬"
+    },
+    {
+      "id": "4",
+      "description": "Online Course",
+      "category": "Education",
+      "type": "Expense",
+      "amount": 49.99,
+      "date": "2026-05-21",
+      "icon": "📚"
+    },
+    {
+      "id": "5",
+      "description": "Uber Ride",
+      "category": "Transport",
+      "type": "Expense",
+      "amount": 23.75,
+      "date": "2026-05-21",
+      "icon": "🚗"
+    },
+    {
+      "id": "6",
+      "description": "Electricity Bill",
+      "category": "Bills & Utilities",
+      "type": "Expense",
+      "amount": 60,
+      "date": "2026-05-20",
+      "icon": "⚡"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Food & Dining",
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "2",
+      "name": "Transport",
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "3",
+      "name": "Shopping",
+      "color": "#FFE66D"
+    },
+    {
+      "id": "4",
+      "name": "Entertainment",
+      "color": "#95E1D3"
+    },
+    {
+      "id": "5",
+      "name": "Bills & Utilities",
+      "color": "#A8E6CF"
+    },
+    {
+      "id": "6",
+      "name": "Education",
+      "color": "#C7CEEA"
+    },
+    {
+      "id": "7",
+      "name": "Healthcare",
+      "color": "#FF9999"
+    },
+    {
+      "id": "8",
+      "name": "Travel",
+      "color": "#FFB7DE"
+    }
+  ]
+}
